@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Secrets (real keys live here; commit only API_KEY.json.example)
+app/API_KEY.json
+
+# Jupyter
+.ipynb_checkpoints
+
+# Runtime session artifacts
+/tmp/
+*.log
+
+# OS/editor cruft
+.DS_Store
+.vscode/
+.idea/

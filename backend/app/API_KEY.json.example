@@ -1,0 +1,6 @@
+{
+  "DeepSeek_Michale": "your-deepseek-api-key-here",
+  "SEARCH_API_KEY": "your-searchapi-io-key-here",
+  "OPENAI_API_KEY": "",
+  "QWEN_API_KEY": ""
+}
