@@ -17,10 +17,6 @@ This repository contains the two halves of the demo system:
 
 Each subdirectory has its own README with setup and run instructions; start with `backend/README.md` to configure API keys, then `frontend/README.md` to run the UI against it.
 
-## Status of This Artifact
-
-This is a research-demo artifact, not a packaged product. It assumes a programmer comfortable with Python/Node environment setup, and it requires your own API keys (a search API and an LLM API) to run — it will not do anything useful out of the box without those. It is provided to support reproducibility and inspection of the system described in the paper, exactly as implemented for the demonstration.
-
 ## Citation
 
 ```bibtex
